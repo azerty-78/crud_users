@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262279867180",
+    "project_id": "crudusers-8ec57",
+    "storage_bucket": "crudusers-8ec57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262279867180:android:edc1f969f04a43b9449a89",
+        "android_client_info": {
+          "package_name": "com.kobe.crudusers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvstGt9awWenv5qr2CXgK4yO_GqTRLx7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
